@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "pere": "Elevate Your Space: The Art of Stylish Furnishing",
+        "title": "News",
+        "image": "/assets/Images/blog-1.webp",
+        "author": "New Post on",
+        "date": "Jan 10, 2025"
+    },
+    {
+        "id": 2,
+        "pere": "Elevate Your Space: The Art of Stylish Furnishing",
+        "title": "News",
+        "image": "/assets/Images/blog-2.webp",
+        "author": "New Post on",
+        "date": "Jan 5, 2025"
+    },
+    {
+        "id": 3,
+        "pere": "Elevate Your Space: The Art of Stylish Furnishing",
+        "title": "News",
+        "image": "/assets/Images/blog-3.webp",
+        "author": "New Post on",
+        "date": "Jan 15, 2025"
+    },
+    {
+        "id": 4,
+        "pere": "Elevate Your Space: The Art of Stylish Furnishing",
+        "title": "News",
+        "image": "/assets/Images/blog-4.webp",
+        "author": "New Post on",
+        "date": "Jan 17, 2025"
+    },
+    {
+        "id": 5,
+        "pere": "Elevate Your Space: The Art of Stylish Furnishing",
+        "title": "News",
+        "image": "/assets/Images/blog-5.webp",
+        "author": "New Post on",
+        "date": "Jan 12, 2025"
+    },
+    {
+        "id": 6,
+        "pere": "Elevate Your Space: The Art of Stylish Furnishing",
+        "title": "News",
+        "image": "/assets/Images/blog-6.webp",
+        "author": "New Post on",
+        "date": "Jan 9, 2025"
+    },
+    {
+        "id": 7,
+        "pere": "Elevate Your Space: The Art of Stylish Furnishing",
+        "title": "News",
+        "image": "/assets/Images/blog-7.webp",
+        "author": "New Post on",
+        "date": "Jan 13, 2025"
+    },
+    {
+        "id": 8,
+        "pere": "Elevate Your Space: The Art of Stylish Furnishing",
+        "title": "News",
+        "image": "/assets/Images/blog-8.webp",
+        "author": "New Post on",
+        "date": "Jan 20, 2025"
+    },
+    {
+        "id": 9,
+        "pere": "Elevate Your Space: The Art of Stylish Furnishing",
+        "title": "News",
+        "image": "/assets/Images/blog-9.webp",
+        "author": "New Post on",
+        "date": "Jan 4, 2025"
+    },
+    {
+        "id": 10,
+        "pere": "Elevate Your Space: The Art of Stylish Furnishing",
+        "title": "News",
+        "image": "/assets/Images/blog-10.webp",
+        "author": "New Post on",
+        "date": "Jan 14, 2025"
+    }
+]

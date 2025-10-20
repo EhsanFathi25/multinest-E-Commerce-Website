@@ -1,0 +1,131 @@
+[
+    {
+        "id": 1,
+        "image": "/Images/product1.webp",
+        "secondImage": "/Images/product1.webp",
+        "productname": "Classic Leather Sneakers",
+        "price": "$89.99",
+        "tag": "New"
+    },
+    {
+        "id": 2,
+        "image": "/Images/product2.webp",
+        "secondImage": "/Images/product1.webp",
+        "productname": "Classic Leather Sneakers",
+        "price": "$89.99",
+        "tag": "New"
+    },
+    {
+        "id": 3,
+        "image": "/Images/product3.webp",
+        "secondImage": "/Images/product1.webp",
+        "productname": "Classic Leather Sneakers",
+        "price": "$89.99",
+        "tag": "New"
+    },
+    {
+        "id": 4,
+        "image": "/Images/product4.webp",
+        "secondImage": "/Images/product1.webp",
+        "productname": "Classic Leather Sneakers",
+        "price": "$89.99",
+        "tag": "New"
+    },
+    {
+        "id": 5,
+        "image": "/Images/product5.webp",
+        "secondImage": "/Images/product1.webp",
+        "productname": "Classic Leather Sneakers",
+        "price": "$89.99",
+        "tag": "New"
+    },
+    {
+        "id": 6,
+        "image": "/Images/product6.webp",
+        "secondImage": "/Images/product1.webp",
+        "productname": "Classic Leather Sneakers",
+        "price": "$89.99",
+        "tag": "New"
+    },
+    {
+        "id": 7,
+        "image": "/Images/product7.webp",
+        "secondImage": "/Images/product1.webp",
+        "productname": "Classic Leather Sneakers",
+        "price": "$89.99",
+        "tag": "New"
+    },
+    {
+        "id": 8,
+        "image": "/Images/product8.webp",
+        "secondImage": "/Images/product1.webp",
+        "productname": "Classic Leather Sneakers",
+        "price": "$89.99",
+        "tag": "New"
+    },
+    {
+        "id": 9,
+        "image": "/Images/product9.webp",
+        "secondImage": "/Images/product1.webp",
+        "productname": "Classic Leather Sneakers",
+        "price": "$89.99",
+        "tag": "New"
+    },
+    {
+        "id": 10,
+        "image": "/Images/product10.webp",
+        "secondImage": "/Images/product1.webp",
+        "productname": "Classic Leather Sneakers",
+        "price": "$89.99",
+        "tag": "New"
+    },
+    {
+        "id": 11,
+        "image": "/Images/product11.webp",
+        "secondImage": "/Images/product1.webp",
+        "productname": "Classic Leather Sneakers",
+        "price": "$89.99",
+        "tag": "New"
+    },
+    {
+        "id": 12,
+        "image": "/Images/product12.webp",
+        "secondImage": "/Images/product1.webp",
+        "productname": "Classic Leather Sneakers",
+        "price": "$89.99",
+        "tag": "New"
+    },
+    {
+        "id": 13,
+        "image": "/Images/product13.webp",
+        "secondImage": "/Images/product1.webp",
+        "productname": "Classic Leather Sneakers",
+        "price": "$89.99",
+        "tag": "New"
+    },
+    {
+        "id": 14,
+        "image": "/Images/product14.webp",
+        "secondImage": "/Images/product1.webp",
+        "productname": "Classic Leather Sneakers",
+        "price": "$89.99",
+        "tag": "New"
+    },
+    {
+        "id": 15,
+        "image": "/Images/product15.webp",
+        "secondImage": "/Images/product1.webp",
+        "productname": "Classic Leather Sneakers",
+        "price": "$89.99",
+        "tag": "New"
+    },
+    {
+        "id": 16,
+        "image": "/Images/product16.webp",
+        "secondImage": "/Images/product1.webp",
+        "productname": "Classic Leather Sneakers",
+        "price": "$89.99",
+        "olderprice": "$22.45",
+        "tag": "sales"
+    }
+]
