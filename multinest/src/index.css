@@ -1,0 +1,32 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@1,500&display=swap");
+
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+    list-style: none;
+    text-decoration: none;
+    font-family: var(--Poppins-font);
+}
+
+:root {
+     
+    --prim-color: #ff823a;
+    --black-color: #000;
+    --white-color: #fff;
+    --text-color: #7e7e7e;
+    --section-color: #EDF1F0;
+
+    --bricolage-font: "Bricolage Grotesque", sans-serif;
+    --Poppins-font: "Poppins", sans-serif;
+
+    --transition-regular: .3s;
+    --transition-slow: .6s;
+
+}
